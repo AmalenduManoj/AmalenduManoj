@@ -10,13 +10,13 @@
 🦀 Rust • 🔵 TypeScript/JavaScript • ☕ Java • 🐍 Python • ⚙️ C • 💎 Solidity
 
 **Frameworks:**  
-Actix-web • Axum • Next.js • React • React Native • Spring Boot • Node.js
+🚀 Actix-web • ⚡ Axum • ▲ Next.js • ⚛️ React • 📱 React Native • 🍃 Spring Boot • 🟢 Node.js
 
 **Databases:**  
-PostgreSQL • MySQL • MongoDB
+🐘 PostgreSQL • 🐬 MySQL • 🍃 MongoDB
 
 **DevOps:**  
-Git • Docker • GitHub
+🔀 Git • 🐳 Docker • 🐙 GitHub
 
 ---
 
