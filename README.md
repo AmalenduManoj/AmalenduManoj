@@ -20,7 +20,15 @@
 
 ---
 
-## 📫 Connect
+## � GitHub Analytics
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vagabond-0&layout=pie&theme=radical&hide=html)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vagabond-0&theme=radical)
+
+---
+
+## �📫 Connect
 
 - **Email**: amalendumanoj@gmail.com
 - **Phone**: +91 80782 13133
