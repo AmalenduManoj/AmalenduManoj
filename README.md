@@ -33,8 +33,8 @@
 - **Email**: amalendumanoj@gmail.com
 - **Phone**: +91 80782 13133
 - **Portfolio**: [amalendumanoj.vercel.app](https://amalendumanoj.vercel.app/)
-- **LinkedIn**: [linkedin.com/amalendu](https://linkedin.com/in/amalendu)
-- **GitHub**: [github.com/vagabond-0](https://github.com/vagabond-0)
+- **LinkedIn**: [Amalendu Manoj](https://www.linkedin.com/in/amalendu-manoj-970a13253/)
+- **GitHub**: [github.com/AmalenduManoj](https://github.com/AmalenduManoj)
 
 ---
 
