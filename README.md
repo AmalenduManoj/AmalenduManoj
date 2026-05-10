@@ -22,9 +22,9 @@
 
 ## � GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vagabond-0&layout=pie&theme=radical&hide=html)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalenduManoj&layout=pie&theme=radical&hide=html)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vagabond-0&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=AmalenduManoj&theme=radical)
 
 ---
 
