@@ -24,6 +24,7 @@ Git • Docker • GitHub
 
 - **Email**: amalendumanoj@gmail.com
 - **Phone**: +91 80782 13133
+- **Portfolio**: [amalendumanoj.vercel.app](https://amalendumanoj.vercel.app/)
 - **LinkedIn**: [linkedin.com/amalendu](https://linkedin.com/in/amalendu)
 - **GitHub**: [github.com/vagabond-0](https://github.com/vagabond-0)
 
