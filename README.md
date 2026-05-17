@@ -40,7 +40,9 @@
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AmalenduManoj&theme=radical)
+## 📊 Most Used Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalenduManoj&layout=compact&theme=radical)
 ---
 
 ## �📫 Connect
