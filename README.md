@@ -8,5 +8,8 @@
 * Interested in distributed systems, backend engineering, and Web3 development
 
 
+## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalenduManoj&layout=compact)](https://github.com/AmalenduManoj)
+![Amalendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmalenduManoj&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalenduManoj&layout=compact&theme=tokyonight)
