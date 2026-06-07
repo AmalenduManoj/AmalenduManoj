@@ -6,5 +6,4 @@
 
 * Building fast and scalable backend systems with Rust and Actix-web
 * Interested in distributed systems, backend engineering, and Web3 development
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalenduManoj)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalenduManoj&layout=compact)](https://github.com/AmalenduManoj)
