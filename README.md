@@ -7,9 +7,3 @@
 * Building fast and scalable backend systems with Rust and Actix-web
 * Interested in distributed systems, backend engineering, and Web3 development
 
-
-## GitHub Stats
-
-![Amalendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmalenduManoj&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalenduManoj&layout=compact&theme=tokyonight)
